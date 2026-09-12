@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="..\..\DotnetLabs\Command\CLI.cs" Link="DesignPatterns\BehavioralPatterns\Command\CLI.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="DesignPatterns\BehavioralPatterns\" />
   </ItemGroup>
 
