@@ -2,6 +2,7 @@
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj" Id="1ee8ba8f-4a3c-4194-9013-7ba7f9313348" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Command/Command.csproj" Id="b4f2ae5b-535d-4dc0-8ac1-d23fba9ecea7" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Mediator/Mediator.csproj" Id="72962659-1194-4429-b9a3-9c7810c2a4a5" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Observer/Observer.csproj" Id="4e72b018-857d-49e5-bb95-7b3d9ecdbbc6" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Strategy/Strategy.csproj" Id="10eb28c6-c9d6-4f8d-9145-a8a62dc8b96f" />
   <Project Path="DotnetLabsX/DotnetLabsX.csproj" />
 </Solution>

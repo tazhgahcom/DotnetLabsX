@@ -5,10 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RootNamespace>Tazhgah.DesignPatterns.Observer</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Include="..\..\DotnetLabs\Command\CLI.cs" Link="DesignPatterns\BehavioralPatterns\Command\CLI.cs" />
-  </ItemGroup>
 
 </Project>
