@@ -8,11 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\DotnetLabs\Command\CLI.cs" Link="DesignPatterns\BehavioralPatterns\Command\CLI.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="LINQ\" />
+    <PackageReference Include="Dumpify" Version="0.7.0" />
   </ItemGroup>
 
 </Project>
