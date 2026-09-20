@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="DotnetLabsX/Core/Generics/Generics.csproj" Id="95cd8073-d459-437e-9e35-bc9e11f42769" />
+  <Project Path="DotnetLabsX/Core/GlobalUsings/GlobalUsings.csproj" Id="587728a4-722c-4c5a-8e3b-fdaac942fe7b" />
+  <Project Path="DotnetLabsX/Core/PatternMatching/PatternMatching.csproj" Id="1efcb9c1-f44a-40d3-b327-5bd0ef576d33" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj" Id="1ee8ba8f-4a3c-4194-9013-7ba7f9313348" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Command/Command.csproj" Id="b4f2ae5b-535d-4dc0-8ac1-d23fba9ecea7" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Mediator/Mediator.csproj" Id="72962659-1194-4429-b9a3-9c7810c2a4a5" />
