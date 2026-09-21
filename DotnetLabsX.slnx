@@ -1,12 +1,18 @@
 <Solution>
-  <Project Path="DotnetLabsX/Core/Generics/Generics.csproj" Id="95cd8073-d459-437e-9e35-bc9e11f42769" />
-  <Project Path="DotnetLabsX/Core/GlobalUsings/GlobalUsings.csproj" Id="587728a4-722c-4c5a-8e3b-fdaac942fe7b" />
-  <Project Path="DotnetLabsX/Core/PatternMatching/PatternMatching.csproj" Id="1efcb9c1-f44a-40d3-b327-5bd0ef576d33" />
-  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj" Id="1ee8ba8f-4a3c-4194-9013-7ba7f9313348" />
-  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Command/Command.csproj" Id="b4f2ae5b-535d-4dc0-8ac1-d23fba9ecea7" />
-  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Mediator/Mediator.csproj" Id="72962659-1194-4429-b9a3-9c7810c2a4a5" />
-  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Observer/Observer.csproj" Id="4e72b018-857d-49e5-bb95-7b3d9ecdbbc6" />
-  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Strategy/Strategy.csproj" Id="10eb28c6-c9d6-4f8d-9145-a8a62dc8b96f" />
+  <Project Path="DotnetLabsX/Core/ConstantInterpolation/ConstantInterpolation.csproj" Id="29657f80-02e4-4351-ad24-a01ce91b69e7" />
+  <Project Path="DotnetLabsX/Core/Generics/Generics.csproj" />
+  <Project Path="DotnetLabsX/Core/GlobalUsings/GlobalUsings.csproj" />
+  <Project Path="DotnetLabsX/Core/ImplicitUsings/ImplicitUsings.csproj" />
+  <Project Path="DotnetLabsX/Core/Interfaces/Interfaces.csproj" Id="d2645732-f42a-47b0-9c1b-4a8da8efcb9b" />
+  <Project Path="DotnetLabsX/Core/PatternMatching/PatternMatching.csproj" />
+  <Project Path="DotnetLabsX/Core/RequiredProperties/RequiredProperties.csproj" Id="66b2b69b-a130-4f2e-8a63-2d0d1840607d" />
+  <Project Path="DotnetLabsX/Core/Tuples/Tuples.csproj" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Command/Command.csproj" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Mediator/Mediator.csproj" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Observer/Observer.csproj" />
+  <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/Strategy/Strategy.csproj" />
   <Project Path="DotnetLabsX/DotnetLabsX.csproj" />
-  <Project Path="DotnetLabsX/LINQ/LinqCore/LinqCore.csproj" Id="fd56d7fe-c4dc-4c3c-9dc6-8143648ad991" />
+  <Project Path="DotnetLabsX/LINQ/LinqCore/LinqCore.csproj" />
+  <Project Path="StringInterpolation/StringInterpolation.csproj" Id="c3275a05-a284-4397-8ce6-c13a3f2bf197" />
 </Solution>
