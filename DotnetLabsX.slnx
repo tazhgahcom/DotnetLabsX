@@ -1,9 +1,11 @@
 <Solution>
   <Project Path="DotnetLabsX/Core/ConstantInterpolation/ConstantInterpolation.csproj" Id="29657f80-02e4-4351-ad24-a01ce91b69e7" />
+  <Project Path="DotnetLabsX/Core/Dictionary/Dictionary.csproj" Id="8bd89645-f351-4804-8c82-59c98d82a03e" />
   <Project Path="DotnetLabsX/Core/Generics/Generics.csproj" />
   <Project Path="DotnetLabsX/Core/GlobalUsings/GlobalUsings.csproj" />
   <Project Path="DotnetLabsX/Core/ImplicitUsings/ImplicitUsings.csproj" />
   <Project Path="DotnetLabsX/Core/Interfaces/Interfaces.csproj" Id="d2645732-f42a-47b0-9c1b-4a8da8efcb9b" />
+  <Project Path="DotnetLabsX/Core/ListPatterns/ListPatterns.csproj" Id="0ab38cba-3ce3-49a4-ac1a-180921116835" />
   <Project Path="DotnetLabsX/Core/PatternMatching/PatternMatching.csproj" />
   <Project Path="DotnetLabsX/Core/RequiredProperties/RequiredProperties.csproj" Id="66b2b69b-a130-4f2e-8a63-2d0d1840607d" />
   <Project Path="DotnetLabsX/Core/Tuples/Tuples.csproj" />
