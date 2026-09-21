@@ -6,3 +6,5 @@ if (info is [var firstName, var lastName, ..])
 {
     Console.WriteLine($"{firstName} {lastName}");
 }
+
+Console.WriteLine("Amir Ali");
