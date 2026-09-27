@@ -1,6 +1,9 @@
 <Solution>
   <Project Path="DotnetLabsX/Core/ConstantInterpolation/ConstantInterpolation.csproj" Id="29657f80-02e4-4351-ad24-a01ce91b69e7" />
+  <Project Path="DotnetLabsX/Core/DateTime/DateTime.csproj" Id="f5f42b0f-d5d8-41f0-8c50-637226a64594" />
+  <Project Path="DotnetLabsX/Core/Debugging/Debugging.csproj" Id="690abf40-b8b5-4434-8240-442ab1c0faaa" />
   <Project Path="DotnetLabsX/Core/Dictionary/Dictionary.csproj" Id="8bd89645-f351-4804-8c82-59c98d82a03e" />
+  <Project Path="DotnetLabsX/Core/ExceptionHandling/ExceptionHandling.csproj" Id="2a4a1459-9c93-4a2c-b87f-f775a9b95d51" />
   <Project Path="DotnetLabsX/Core/Generics/Generics.csproj" />
   <Project Path="DotnetLabsX/Core/GlobalUsings/GlobalUsings.csproj" />
   <Project Path="DotnetLabsX/Core/ImplicitUsings/ImplicitUsings.csproj" />
