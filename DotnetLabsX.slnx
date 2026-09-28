@@ -10,6 +10,7 @@
   <Project Path="DotnetLabsX/Core/Interfaces/Interfaces.csproj" Id="d2645732-f42a-47b0-9c1b-4a8da8efcb9b" />
   <Project Path="DotnetLabsX/Core/ListPatterns/ListPatterns.csproj" Id="0ab38cba-3ce3-49a4-ac1a-180921116835" />
   <Project Path="DotnetLabsX/Core/PatternMatching/PatternMatching.csproj" />
+  <Project Path="DotnetLabsX/Core/PrimaryConstructors/PrimaryConstructors.csproj" Id="35ec6b7f-91b3-43a2-be57-372881446804" />
   <Project Path="DotnetLabsX/Core/RequiredProperties/RequiredProperties.csproj" Id="66b2b69b-a130-4f2e-8a63-2d0d1840607d" />
   <Project Path="DotnetLabsX/Core/Tuples/Tuples.csproj" />
   <Project Path="DotnetLabsX/DesignPatterns/BehavioralPatterns/ChainOfResponsibility/ChainOfResponsibility.csproj" />
